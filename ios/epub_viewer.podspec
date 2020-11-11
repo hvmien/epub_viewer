@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
 A new flutter plugin project.
                        DESC
-  s.homepage         = 'https://github.com/JideGuru/epub_reader.git'
+  s.homepage         = 'https://github.com/hvmien/epub_viewer.git'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'jideguru' => 'guruliciousjide@gmail.com' }
   s.source           = { :path => '.' }
