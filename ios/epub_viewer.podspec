@@ -19,7 +19,7 @@ A new flutter plugin project.
   ]
 
   s.dependency 'Flutter'
-  s.dependency 'CSEpubViewerKit', '~>0.1.3'
+  s.dependency 'CSEpubViewerKit', '~> 0.1.3'
   s.ios.deployment_target = '9.0'
 
   
