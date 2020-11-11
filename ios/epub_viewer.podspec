@@ -19,9 +19,7 @@ A new flutter plugin project.
   ]
 
   s.dependency 'Flutter'
-  
-  #s.dependency 'https://github.com/hvmien/EpubViewerKit.git'
-  # add in pod file: pod 'EpubViewerKit', :git => 'https://github.com/hvmien/EpubViewerKit.git'
+  s.dependency 'CSEpubViewerKit', '~>0.1.2'
   s.ios.deployment_target = '9.0'
 
   
